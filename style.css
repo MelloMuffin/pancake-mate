@@ -1,1 +1,4 @@
-h1 { color: black; font-size: 14; text-decoration: none; }
+body {
+  color: white; font-size: 28;
+}
+h1 { color: white; font-size: 14; }
