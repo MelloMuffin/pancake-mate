@@ -1,5 +1,15 @@
-background{0, 0, 128}
-body {
-  color: white; font-size: 28;
+.broken-green-pixel {
+  background-color: #ff00ff
+    width: 1px;
+ height: 1px;
+  position: fixed;
 }
-h1 { color: white; font-size: 14; }
+
+background{
+  color:0, 0, 128
+
+}
+body {
+  color: #ffffff; font-size: 14;
+}
+h1 { color: #ffffff; font-size: 28; }
