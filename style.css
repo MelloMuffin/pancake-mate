@@ -1,7 +1,7 @@
 .broken-green-pixel {
   background-color: #ff00ff;
-    width: 1px;
- height: 1px;
+    width: 5px;
+ height: 5px;
   position: fixed;
   top: 126px;
   left: 252px;
